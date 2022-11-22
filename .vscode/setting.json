@@ -1,0 +1,11 @@
+
+ {
+     "files.associations": {
+        "include.h": "c",
+        "stdint.h": "c",
+        "PLL.h": "c",
+        "ST.h": "c",
+        "core_cm4.h": "c",
+        "TM4C123GH6PM.h": "c"
+    }
+}
